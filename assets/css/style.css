@@ -1,3 +1,7 @@
-img {
-    width: 200px;
+.jumbotron {
+    text-align: center;
+}
+
+.name {
+    padding: 50px;
 }
