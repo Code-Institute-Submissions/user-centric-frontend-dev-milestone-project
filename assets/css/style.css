@@ -14,9 +14,13 @@ img {
 /*----------------------Text*/
 
 .home-paragraphs {
-    display: inline;
-    
+    height: 100%;
 }
 
 /*----------------------Media Quires*/
 
+@media (max-width: 992px) {
+    .home-paragraphs {
+        padding-top: 20px;
+    }
+}
