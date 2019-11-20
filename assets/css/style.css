@@ -1,4 +1,13 @@
 
+/*---------------------------Navbar*/
+
+
+/*---------------------------General*/
+
+.inline-block {
+    display: inline-block;
+}
+
 /*---------------------------Heading*/
 .heading {
     text-align: center;
@@ -23,4 +32,23 @@ img {
     .home-paragraphs {
         padding-top: 20px;
     }
+}
+
+/*----------------------Contact Form*/
+
+.contact-title {
+    text-align: center;
+}
+
+/*----------------------Footer and Socials*/
+
+footer {
+    background-color: #343a40;
+    color: rgba(255, 255, 255, 0.5);
+    margin-top: 10px
+}
+
+.footer-section {
+    padding-top: 10px;
+    text-align: center;
 }
