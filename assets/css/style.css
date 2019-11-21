@@ -1,6 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Odibee+Sans&display=swap:100,200,300,400,500,600,700|PT Sans Narrow:100,200,300,400,500,600,700');
 
 /*---------------------------Navbar*/
 
+.navbar {
+    font-family: "Odibee Sans", sans-serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
 
 /*---------------------------General*/
 
@@ -51,4 +58,10 @@ footer {
 .footer-section {
     padding-top: 10px;
     text-align: center;
+    font-family: "Odibee Sans", sans-serif;
+    letter-spacing: 1px;
+    font-size: 20px;
+    font-weight: 600;
 }
+
+
