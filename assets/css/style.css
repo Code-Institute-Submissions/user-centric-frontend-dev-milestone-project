@@ -51,7 +51,9 @@ img {
 }
 
 .home-paragraphs {
-    height: 100%;
+    font-family: "PT Sans Narrow", sans-serif;
+    font-size: 30px;
+    width: 100%;
 }
 
 /*----------------------Media Quires*/
