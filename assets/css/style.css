@@ -47,7 +47,7 @@ img {
     font-size: 50px;
     text-align: center;
     text-decoration: underline;
-    
+
 }
 
 .home-paragraphs {
@@ -109,4 +109,67 @@ p a i {
     height: 64px;
     color: #fff;
     padding-top: 20px;
+}
+
+
+/*----------------------Story*/
+
+.story {
+    margin: 0;
+    padding-top: 100px;
+}
+
+.story-heading {
+    font-family: "Odibee Sans", sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.story-paragraphs {
+    font-family: "PT Sans Narrow", sans-serif;
+    font-size: 30px;
+    display: inline-block;
+}
+
+
+/*----------------------Story Subheadings*/
+
+.birth-subheading {
+    font-family: "Odibee Sans", sans-serif;
+    font-size: 40px;
+    text-align: left;
+    text-decoration: underline;
+    padding-bottom: 10px
+}
+
+.years-subheading {
+    font-family: "Odibee Sans", sans-serif;
+    font-size: 40px;
+    text-align: left;
+    text-decoration: underline;
+    padding-bottom: 10px
+}
+
+.leading-subheading {
+    font-family: "Odibee Sans", sans-serif;
+    font-size: 40px;
+    text-align: left;
+    text-decoration: underline;
+    padding-bottom: 10px
+}
+
+.teen-subheading {
+    font-family: "Odibee Sans", sans-serif;
+    font-size: 40px;
+    text-align: left;
+    text-decoration: underline;
+    padding-bottom: 10px
+}
+
+.present-subheading {
+    font-family: "Odibee Sans", sans-serif;
+    font-size: 40px;
+    text-align: left;
+    text-decoration: underline;
+    padding-bottom: 10px
 }
