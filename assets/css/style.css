@@ -15,7 +15,7 @@
     display: inline-block;
 }
 
-/*---------------------------Heading*/
+/*---------------------------Home Page Heading*/
 
 .heading {
     text-align: center;
@@ -40,7 +40,7 @@ img {
     font-size: 40px
 }
 
-/*----------------------Text*/
+/*----------------------Home Page Text*/
 
 .paragraph-heading {
     font-family: "Odibee Sans", sans-serif;
@@ -112,7 +112,7 @@ p a i {
 }
 
 
-/*----------------------Story*/
+/*----------------------Story Page*/
 
 .story {
     margin: 0;
@@ -172,4 +172,18 @@ p a i {
     text-align: left;
     text-decoration: underline;
     padding-bottom: 10px
+}
+
+
+/*----------------------Gallery Page*/
+
+.gallery {
+    margin: 0;
+    padding-top: 100px;
+}
+
+.gallery-heading {
+    font-family: "Odibee Sans", sans-serif;
+    font-size: 50px;
+    text-align: center;
 }
